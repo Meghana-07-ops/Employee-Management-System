@@ -32,11 +32,16 @@ SqlConnection con = new SqlConnection(@"Data Source=YOUR_SERVER;Initial Catalog=
 
 Employee-Management-System/ │ ├── Form1.cs ├── Employee.cs ├── EmployeeInfo.cs ├── employeedb.sql # 
 
-## 🙋 Authors
-- Meghana Samadhan Badgujar – SS22IF012
+🙋‍♀️ Author Meghana Badgujar
 
-## 🔗 GitHub Repository
+Diploma in Information Technology Government Polytechnic Mumbai
 
-[Employee Management System GitHub Repo](https://github.com/your-username/Employee-Management-System)
+📧 Email: Email: meghanabadgujar07@gmail.com
+
+🔗 GitHub: https://github.com/Meghana-07-ops
+
+🔗 LinkedIn: www.linkedin.com/in/meghana-badgujar-8a7a84284
+
+⭐ If you found this project useful, feel free to give it a star on GitHub!
 
 ---
